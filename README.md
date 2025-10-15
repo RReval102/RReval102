@@ -10,6 +10,6 @@
   •
   <b><a href="https://t.me/skyness4">Telegram</a></b>
   •
-  <b><a href="https://your-blog.example">Blog</a></b>
+  <b><a href="https://gitlab.com/RReval102">GitLab</a></b>
   •
 </p>
